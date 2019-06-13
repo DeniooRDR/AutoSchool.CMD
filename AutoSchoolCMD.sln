@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSchoolCMD", "AutoSchoolCMD\AutoSchoolCMD.csproj", "{646FD734-FA61-47CF-B2D8-E1FFEA3DA58D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSchoolLibrary", "AutoSchoolLibrary\AutoSchoolLibrary.csproj", "{5249006F-1056-49F2-A13C-E5DA623DDF10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{646FD734-FA61-47CF-B2D8-E1FFEA3DA58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{646FD734-FA61-47CF-B2D8-E1FFEA3DA58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{646FD734-FA61-47CF-B2D8-E1FFEA3DA58D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5249006F-1056-49F2-A13C-E5DA623DDF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5249006F-1056-49F2-A13C-E5DA623DDF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5249006F-1056-49F2-A13C-E5DA623DDF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5249006F-1056-49F2-A13C-E5DA623DDF10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
