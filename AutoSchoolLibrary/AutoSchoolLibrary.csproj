@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controller\ClassesController.cs" />
     <Compile Include="Controller\SaveController.cs" />
     <Compile Include="Controller\UserController.cs" />
     <Compile Include="Model\TimeClasses.cs" />

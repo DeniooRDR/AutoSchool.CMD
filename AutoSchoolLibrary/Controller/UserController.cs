@@ -7,7 +7,7 @@ using AutoSchoolLibrary.Model;
 
 namespace AutoSchoolLibrary.Controller
 {
-    class UserController : SaveController
+    public class UserController : SaveController
     {
         /// <summary>
         /// Create user Auto School
@@ -36,6 +36,10 @@ namespace AutoSchoolLibrary.Controller
                 NewUser = true;
                 Save();
             }
+        }
+
+        public UserController()
+        {
         }
 
         private List<User> GetUserData()

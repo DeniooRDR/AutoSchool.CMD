@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AutoSchoolLibrary.Model
 {
     [Serializable]
-    class User
+    public class User
     {
         private string userName;
 

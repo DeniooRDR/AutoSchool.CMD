@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace AutoSchoolLibrary.Model
 {
     [Serializable]
-    class TimeTable
+    public class TimeTable
     {
         public DateTime Start { get; set; }
         public DateTime Finish { get; set; }
